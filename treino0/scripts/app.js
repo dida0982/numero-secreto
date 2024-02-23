@@ -22,7 +22,7 @@ function setUserName() {
     setUserName();
   } else {
     localStorage.setItem('name', myName);
-    myHeading.innerHTML = 'Nada é impossível quando se tem determinação inabalável ' + myName;
+    myHeading.innerHTML = 'Nada é impossível quando se tem determinação inabalável  ' + myName;
   }
 }
 
